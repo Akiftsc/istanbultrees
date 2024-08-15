@@ -7,7 +7,8 @@ function App() {
       <div className="container-xl px-4 py-6 flex flex-col gap-y-12">
         <h1 className='text-extra-dark text-5xl font-semibold text-center'>Istanbul Trees</h1>
         <Map />
-        <small className="text-gray-500">Veri kaynağı: <a href="https://anitagac.istanbul" className="underline">https://anitagac.istanbul</a></small>
+        <small className="text-gray-500">Veri kaynağı: <a href="https://anitagac.istanbul" className="underline">https://anitagac.istanbul</a>
+        <br /> <a className="underline" href="https://instagram.com/m.akif.tasci" target="_blank">Mehmet Akif Taşçı tarafından</a></small>
       </div>
     </>
   )
